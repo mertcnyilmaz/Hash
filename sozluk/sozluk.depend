@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1432033292 source:c:\users\blodd\desktop\prolab2_2\sozluk\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+
